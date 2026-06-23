@@ -35,8 +35,8 @@ Key components include:
 
 ## 📂 Repository Structure
 ```text
-├── S12 Estudiante_Proyecto_Final_Correcciones MCRC.ipynb  # Main Jupyter Notebook with code & visualizations
-├── Proyecto12_MARIACAMILA_RODRIGUEZCRUZ.pbix              # Interactive Power BI Dashboard
+├── S12_E-commerce Conversion.ipynb  # Main Jupyter Notebook with code & visualizations
+├── Project12_E-commerce Conversion.pbix              # Interactive Power BI Dashboard
 ├── orders_clean.csv                                       # Cleaned dataset exported for BI tools
 ├── catalog_clean.csv                                      # Product catalog dataset
 ├── marketing_clean.csv                                    # Marketing campaign performance dataset
